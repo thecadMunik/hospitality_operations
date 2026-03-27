@@ -5,7 +5,9 @@
 
 This project analyzes customer support operations to identify inefficiencies in response time, inquiry volume, and operational cost, while establishing a data-driven baseline for future AI adoption.
 
-🛠️ Tools Used: Google Sheets, Looker Studio
+🛠️ Tools Used: Google Sheets, Looker Studio.
+
+
 📁 Dataset: Operational Support Data (Agent logs, Cost metrics, Inquiry patterns, Knowledge base logs)
 
 ## 🧠 Project Goal

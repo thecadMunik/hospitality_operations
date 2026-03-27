@@ -61,7 +61,9 @@ Based on the analysis, I identified several key insights. Response delays are st
 To present these insights, I built an interactive dashboard using Looker Studio. The dashboard tracks response time and SLA performance, inquiry volume trends, escalation patterns, cost and revenue metrics, and knowledge base usage. This provides a clear and continuous view of operational performance.
 
 ## Dashboard Preview 
-![Dashboard Overview](https://github.com/thecadMunik/customer_churn_and_retention/blob/main/images/dashboard1.png)
+![Dashboard Overview](https://github.com/thecadMunik/hospitality_operations/blob/main/images/dashboard1.png)
+
+![Cost and Operational Efficiency](https://github.com/thecadMunik/hospitality_operations/blob/main/images/dashboard2.png)
 
 
 ## 🤖 AI Automation Opportunities

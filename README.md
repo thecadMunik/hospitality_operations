@@ -42,9 +42,10 @@ I identified inefficiencies in how tickets are handled. Around 32% of tickets re
 
 From a workload perspective, agent utilization rate is 79%, and average handle time is 15.7 minutes. This indicates that agents are operating at a high capacity, with limited flexibility to handle increases in demand.
 
-### 📚 Knowledge Base Dependency
+### 📚 Knowledge Base Dependency and Automation
 
 There is a strong reliance on the knowledge base during ticket handling. Over 70% of tickets require knowledge base support, with usage rates across categories ranging between 89% and 95%. Agents also spend an average of 3.65 minutes searching for information, contributing to longer handling times.
+Automation Impact Score is 49.92%, meaning nearly half of support handling effort is tied to repeatable tasks.
 
 ### 💰 Financial & Cost Impact
 
@@ -54,11 +55,14 @@ The financial analysis shows the scale of operational inefficiencies. Total oper
 
 Based on the analysis, I identified several key insights. Response delays are strongly linked to peak demand periods. A large portion of workload is driven by repetitive inquiries. Escalations and transfers significantly extend resolution time, while knowledge dependency increases handling effort. High operational costs are largely driven by repetitive and inefficient processes, and missed revenue opportunities highlight gaps in service efficiency.
 
-Automation Impact Score is 49.92%, meaning nearly half of support handling effort is tied to repeatable tasks.
 
 ## 📊 Dashboard Development
 
 To present these insights, I built an interactive dashboard using Looker Studio. The dashboard tracks response time and SLA performance, inquiry volume trends, escalation patterns, cost and revenue metrics, and knowledge base usage. This provides a clear and continuous view of operational performance.
+
+## Dashboard Preview 
+![Dashboard Overview](https://github.com/thecadMunik/customer_churn_and_retention/blob/main/images/dashboard1.png)
+
 
 ## 🤖 AI Automation Opportunities
 
@@ -74,4 +78,3 @@ To present these insights, I built an interactive dashboard using Looker Studio.
 
 Through this project, I was able to identify key inefficiencies across time, scale, and operational processes, as well as their direct financial impact. A significant portion of operational cost is driven by repetitive inquiries, escalations, and manual knowledge retrieval. By quantifying these challenges and linking them to cost and revenue outcomes, this project establishes a strong baseline for evaluating AI adoption and improving both operational efficiency and financial performance.
 
-Thanks for taking the time to explore this project. I’m open to feedback, suggestions, and collaboration opportunities!
